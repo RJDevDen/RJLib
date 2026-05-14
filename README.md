@@ -59,6 +59,6 @@ If you enjoy my creations and they helped you at all, please consider supporting
 If you need support, report a bug, or seek guidance regarding ACE, you can reach out to me here:
 * **Discord:** Join the [Collective Modding Discord](https://discord.gg/pF9U5FmD6w). I go by **RJ** there. When you join, look for my channel under: **Mod Author Hub** > **🧰-rjdevden**.
 * **NexusMods:** You can also leave a message in the Posts tab on the [mod page](https://www.nexusmods.com/games/fallout4/mods/104749).
-* **GitHub:** You can also raise an issue here.
+* **GitHub:** If you encounter any bugs while using a tool that relies on RJLib, please check the [Issues](https://github.com/RJDevDen/RJLib/issues) tab to see if it has already been reported. If not, feel free to open a new issue with your error logs.
 
 _RJLib is open-source and licensed under the MIT License._
