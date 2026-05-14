@@ -52,7 +52,7 @@ If you enjoy my creations and they helped you at all, please consider supporting
 * [Subscribe to my YouTube channel, watch, and like my videos](https://www.youtube.com/@RJDevDen)
 * [Buy me a coffee on Ko-Fi](https://ko-fi.com/rjdevden)
 * [Become a Patron on Patreon](https://www.patreon.com/c/RJDevDen)
-* [Give a Star to my projects on GitHub](https://github.com/orgs/RJDevDen/repositories)
+* [Give a Star to my repositories/projects on GitHub](https://github.com/orgs/RJDevDen/repositories)
 
 ## 💬 Support & Contact
 
